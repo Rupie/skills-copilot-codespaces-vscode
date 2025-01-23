@@ -4,8 +4,7 @@
     "customizations": {
         "vscode": {
             "extensions": [
-                "GitHub.copilot",
-                "editor.inlineSuggest.enabled": true
+                "GitHub.copilot"
             ]
         }
     }
